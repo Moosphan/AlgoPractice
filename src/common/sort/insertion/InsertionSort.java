@@ -1,4 +1,4 @@
-package sort.insertion;
+package common.sort.insertion;
 
 /**
  * @author Moosphon

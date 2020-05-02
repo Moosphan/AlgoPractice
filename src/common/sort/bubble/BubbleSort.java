@@ -1,4 +1,4 @@
-package sort.bubble;
+package common.sort.bubble;
 
 /**
  * @author Moosphon

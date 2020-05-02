@@ -1,4 +1,4 @@
-package sort.merge;
+package common.sort.merge;
 
 /**
  * @author Moosphon
@@ -6,13 +6,16 @@ package sort.merge;
  * @desc 归并排序
  * 原理：如果要排序一个数组，我们先把数组从中间分成前后两部分，然后对前后两部分分别排序，
  *      再将排好序的两部分合并在一起，这样整个数组就都有序了。
- * 特点：基于分治思想和递归。
+ * 特点：基于分治思想和递归，是稳定的排序算法，非原地排序算法。
  *      递推公式：merge_sort(p…r) = merge(merge_sort(p…q), merge_sort(q+1…r))
  *      终止条件：p >= r
+ *
+ * 时间复杂度：最好、最坏和平均都是O(nlogn)
+ * 空间复杂度：O(n)
  */
 public class MergeSort {
 
-    int[] sort(int[] array, int n) {
+    public int[] sort(int[] array, int n) {
         if (n < 1) return  null;
         mergeSort(array, 0, n-1);
         return array;

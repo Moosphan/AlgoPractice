@@ -1,4 +1,4 @@
-package sort.selection;
+package common.sort.selection;
 
 /**
  * @author Moosphon
@@ -16,13 +16,13 @@ package sort.selection;
  */
 public class SelectionSort {
 
-    int[] selectionSort(int[] array, int n) {
+    public int[] selectionSort(int[] array, int n) {
         if (n < 1) return  null;
         for (int i = 0; i < n; i++) {
             int target = array[i];
             int minIndex = i;
             int j = i;
-            for (; j < n - i; j++) {
+            for (; j < n; j++) {
                 if (array[j] < array[minIndex]) {
                     minIndex = j;
                 }
