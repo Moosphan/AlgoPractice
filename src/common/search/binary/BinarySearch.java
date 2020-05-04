@@ -12,6 +12,8 @@ package common.search.binary;
  *         针对动态变化的数据集合，二分查找将不再适用。
  *      3. 如果数据之间的比较操作非常耗时，不管数据量大小，都推荐使用二分查找。
  *      4. 数据量太大不太适用，因为基于数组，需要连续空间。
+ * @practice
+ *      1. 这里没有考虑到存在重复数字到情况，该情况可参考训练{@link questions.search.SearchWithSameNumber}
  */
 public class BinarySearch {
 
