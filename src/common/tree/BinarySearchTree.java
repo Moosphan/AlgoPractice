@@ -5,7 +5,7 @@ package common.tree;
  * @date 2020/5/10 下午3:14
  * @desc 二叉查找树(二叉排序树)
  * 定义：在树中的任意一个节点，其左子树中的每个节点的值，都要小于这个节点的值，而右子树节点的值都大于这个节点的值。
- * TODO: 1.如何快速查找最大节点 2. 快速查找前驱节点
+ * 平衡二叉查找树的查找、插入和删除时间复杂度都接近O(logn)
  */
 public class BinarySearchTree {
 
@@ -58,7 +58,7 @@ public class BinarySearchTree {
     // 然后再删除掉这个最小节点，因为最小节点肯定没有左子节点.(李代桃僵)
     public void delete(int value) {
         TreeNode p = tree;
-        TreeNode pp = tree;
+        TreeNode pp = null;
         while (p != null && p.data != value) {
             pp = p;
             if (p.data > value) p = p.left;
