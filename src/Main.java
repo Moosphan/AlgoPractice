@@ -2,6 +2,9 @@ import questions.sort.ArrayMaxNumber;
 
 /**
  * Launcher programme.
+ * TODO-LIST:
+ * 1. 散列表的实现和锻炼
+ * 2. 图的实现和应用实战
  */
 public class Main {
     public static void main(String[] args) {

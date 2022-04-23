@@ -11,7 +11,7 @@ public class ArrayNumbersSum {
      * Way1: 线性递归 (基本)
      * T(n) = O(1) * (n+1) = O(n)[递归跟踪]
      * T(n) = O(n - 1) + O(1), T(0) = O(1) => O(n) [递推关系方程]
-     * @param array target array
+     * @param array target algo.array
      * @param n     target index
      * @return      sum before index of n+1
      */
@@ -21,7 +21,7 @@ public class ArrayNumbersSum {
 
     /**
      * Way2: 二分递归法
-     * @param array target array
+     * @param array target algo.array
      * @param low   start index
      * @param high  end index
      * @return      sum between low to high

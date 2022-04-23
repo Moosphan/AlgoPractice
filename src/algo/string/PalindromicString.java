@@ -20,7 +20,7 @@ public class PalindromicString {
      * 基本法
      * T(n)-best = O(1) | T(n)-bad = O(n) | T(n)-average = O(n)
      * S(n) =
-     * @param target target string
+     * @param target target algo.string
      * @return whether if Palindromic String
      */
     public boolean judgeIfPalindromicString(String target) {

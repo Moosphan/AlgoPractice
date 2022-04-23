@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13f268b9-4caf-450f-a543-d563727587e1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/common/tree/BinarySearchTree.java" afterPath="$PROJECT_DIR$/src/common/tree/BinarySearchTree.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/ArrayNumbersSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/array/ArrayNumbersSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/Max2Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/array/Max2Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/java/AssignmentAffiliation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/java/AssignmentAffiliation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/search/binary/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/search/binary/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/search/skip/SkipList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/search/skip/SkipList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sort/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/bubble/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sort/counting/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/counting/CountingSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sort/heap/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/heap/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sort/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/insertion/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sort/merge/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/merge/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sort/quick/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/quick/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/sort/selection/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/selection/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/tree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/tree/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/search/SearchWithSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/search/SearchWithSameNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/search/SqrtNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/search/SqrtNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/sort/ArrayMaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/sort/ArrayMaxNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/questions/sort/PhoneNumberSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/sort/PhoneNumberSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string/PalindromicString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/string/PalindromicString.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,40 +33,6 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="AlgoPractice" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="SkipList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/common/search/skip/SkipList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1207">
-              <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/common/sort/heap/HeapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="64" column="26" lean-forward="false" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,22 +78,23 @@
         <option value="$PROJECT_DIR$/src/questions/search/SearchWithSameNumber.java" />
         <option value="$PROJECT_DIR$/src/common/sort/skip/SkipListSort.java" />
         <option value="$PROJECT_DIR$/src/common/java/AssignmentAffiliation.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/common/search/skip/SkipListSort.java" />
         <option value="$PROJECT_DIR$/src/common/search/skip/SkipList.java" />
         <option value="$PROJECT_DIR$/src/common/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/common/tree/BinaryTree.java" />
         <option value="$PROJECT_DIR$/src/common/tree/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/common/sort/heap/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="y" value="24" />
+    <option name="x" value="22" />
+    <option name="y" value="41" />
     <option name="width" value="1400" />
     <option name="height" value="785" />
   </component>
+  <component name="ProjectId" id="26uGjn6EpLfWbsj7reXgL2jb1sf" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
       <profile-state>
@@ -144,8 +129,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -163,79 +149,22 @@
               <item name="AlgoPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgoPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="merge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-              <item name="quick" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="questions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="questions" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgoPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgoPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="designPattern" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -245,102 +174,51 @@
       <module />
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="AlgorithmsPractice" />
-      <envs />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <list>
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -355,7 +233,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="32" y="24" width="1400" height="785" extended-state="0" />
+    <frame x="22" y="41" width="1400" height="785" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -371,6 +249,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49426934" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -383,144 +262,136 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/string/PalindromicString.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/string/PalindromicString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/bubble/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/bubble/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/insertion/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/insertion/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/selection/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/selection/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/PalindromicString.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/string/PalindromicString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/insertion/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/insertion/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/bubble/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/bubble/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/selection/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/selection/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/PalindromicString.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/string/PalindromicString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/bubble/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/bubble/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Max2Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/Max2Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/ArrayNumbersSum.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/ArrayNumbersSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="28" column="52" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/PalindromicString.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/string/PalindromicString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="52" column="8" lean-forward="false" selection-start-line="52" selection-start-column="8" selection-end-line="52" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/ArrayNumbersSum.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/ArrayNumbersSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="28" column="52" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Max2Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/Max2Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/PalindromicString.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/string/PalindromicString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="43" column="44" lean-forward="false" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Max2Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/Max2Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/ArrayNumbersSum.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/ArrayNumbersSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="28" column="52" lean-forward="true" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/PalindromicString.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/string/PalindromicString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="43" column="44" lean-forward="false" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
@@ -534,14 +405,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Max2Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/Max2Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/ArrayNumbersSum.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/ArrayNumbersSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
@@ -555,7 +426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Max2Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/Max2Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" column="4" lean-forward="false" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
@@ -564,14 +435,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/ddddd.java" />
     <entry file="file://$PROJECT_DIR$/src/day1/safaf.java" />
-    <entry file="file://$PROJECT_DIR$/src/array/ArrayNumbersSum.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/ArrayNumbersSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="52" lean-forward="false" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/array/Max2Numbers.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/array/Max2Numbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
@@ -592,56 +463,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/bubble/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/bubble/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="5" lean-forward="false" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/selection/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/selection/SelectionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
           <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/sort/PhoneNumberSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/questions/sort/PhoneNumberSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/counting/CountingSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/counting/CountingSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/insertion/InsertionSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/insertion/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/search/SqrtNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/questions/search/SqrtNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/search/binary/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="81" lean-forward="false" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/search/SearchWithSameNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/questions/search/SearchWithSameNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
@@ -655,22 +519,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/java/AssignmentAffiliation.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/java/AssignmentAffiliation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/string/PalindromicString.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/string/PalindromicString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
@@ -678,7 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/Node.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="15" lean-forward="false" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
@@ -689,7 +545,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/tree/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/tree/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
@@ -700,18 +556,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/tree/BinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/tree/BinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
-            <element signature="e#700#701#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="false" />
+            <element signature="e#751#752#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/tree/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/tree/BinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="57" column="18" lean-forward="false" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
@@ -719,7 +575,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/merge/MergeSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/merge/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
@@ -727,7 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/quick/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/quick/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="30" column="42" lean-forward="false" selection-start-line="30" selection-start-column="42" selection-end-line="30" selection-end-column="42" />
@@ -735,26 +591,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/questions/sort/ArrayMaxNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/questions/sort/ArrayMaxNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="41" column="30" lean-forward="false" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo/common/search/binary/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="81" lean-forward="false" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/search/skip/SkipList.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/sort/heap/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1207">
-          <caret line="71" column="43" lean-forward="true" selection-start-line="71" selection-start-column="43" selection-end-line="71" selection-end-column="43" />
+        <state relative-caret-position="187">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/common/sort/heap/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/src/algo/common/search/skip/SkipList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="64" column="26" lean-forward="false" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        <state relative-caret-position="272">
+          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
           <folding />
         </state>
       </provider>

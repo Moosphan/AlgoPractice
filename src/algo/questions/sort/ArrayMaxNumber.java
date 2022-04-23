@@ -21,7 +21,7 @@ public class ArrayMaxNumber {
     }
 
     private int quickSort(int[] array, int start, int end, int k) {
-        //int index = quickSort(array, 0, array.length - 1, k);
+        //int index = quickSort(algo.array, 0, algo.array.length - 1, k);
         int index;
         int pivotPosition = partition(array, start, end);
         if (pivotPosition + 1 == k) {

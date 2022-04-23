@@ -1,7 +1,7 @@
 package array;
 
 /**
- * Get two biggest numbers in a array with integer type.
+ * Get two biggest numbers in a algo.array with integer type.
  * @date 2020/03/22 00:15
  */
 public class Max2Numbers {
