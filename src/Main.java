@@ -1,9 +1,10 @@
 import algo.questions.backtrack.SubSetsProvider;
 import algo.questions.common.AddBinaryNumbers;
+import algo.questions.common.BinaryCountBits;
 import algo.questions.common.DivisionOfTwoNumbers;
 import algo.questions.list.AddTwoNumbers;
+import algo.utils.CollectionHelper;
 import questions.sort.ArrayMaxNumber;
-
 import java.util.List;
 
 /**
@@ -20,7 +21,13 @@ public class Main {
         //getAllSubSets();
         //addTwoNumbers();
         //twoNumbersDivision();
-        addTwoBinary();
+        //addTwoBinary();
+        binaryCountBits();
+    }
+
+    private static void binaryCountBits() {
+        int[] result = new BinaryCountBits().countBits(2);
+        System.out.println(CollectionHelper.arrayToList(result));
     }
 
     private static void addTwoBinary() {

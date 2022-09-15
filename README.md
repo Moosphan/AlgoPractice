@@ -1,11 +1,14 @@
 # AlgoPractice
 Insist on daily algorithm-oriented training.
-
-> 我不怕万人阻挡，只怕自己投降！
+> 靡不有初，鲜克有终。
 
 ## 学习计划
+十八般武艺何其多，唯有算法定乾坤。
 
-不积跬步无以至千里，不积小流无以成江海。基础决定未来筑造的高度，所以，基础是最最重要的一部分内容，吾亦会认真对待。所以，未来这里不仅涉及到数据结构与算法相关训练，也会涉及到底层的源码分析。
+#### 二进制
+- [二进制求和运算](./src/algo/questions/common/AddBinaryNumbers.java)
+- [0..n中所有二进制表示的1的个数](./src/algo/questions/common/BinaryCountBits.java)
 
-### 数组
+#### 数组
 
+#### 链表
