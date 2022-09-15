@@ -1,4 +1,4 @@
-package array;
+package algo.array;
 
 /**
  * Get two biggest numbers in a algo.array with integer type.

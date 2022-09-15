@@ -1,4 +1,4 @@
-package questions.search;
+package algo.questions.search;
 
 /**
  * @author Moosphon

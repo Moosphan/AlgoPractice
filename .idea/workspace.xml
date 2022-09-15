@@ -4,35 +4,14 @@
     <list default="true" id="13f268b9-4caf-450f-a543-d563727587e1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/ArrayNumbersSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/array/ArrayNumbersSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Max2Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/array/Max2Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/java/AssignmentAffiliation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/java/AssignmentAffiliation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/search/binary/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/search/binary/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/search/skip/SkipList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/search/skip/SkipList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/sort/bubble/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/bubble/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/sort/counting/CountingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/counting/CountingSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/sort/heap/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/heap/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/sort/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/insertion/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/sort/merge/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/merge/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/sort/quick/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/quick/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/sort/selection/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/sort/selection/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/tree/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/tree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/tree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/common/tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/common/tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/search/SearchWithSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/search/SearchWithSameNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/search/SqrtNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/search/SqrtNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/sort/ArrayMaxNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/sort/ArrayMaxNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/questions/sort/PhoneNumberSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/sort/PhoneNumberSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string/PalindromicString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/string/PalindromicString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo/array/Max2Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/array/Max2Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo/questions/search/SearchWithSameNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/search/SearchWithSameNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo/questions/search/SqrtNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/questions/search/SqrtNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="AlgoPractice" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -87,6 +66,9 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="22" />
@@ -160,12 +142,13 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-    <property name="show.migrate.to.gradle.popup" value="false" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/dorck/github/AlgoPractice&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
@@ -263,6 +246,17 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algo/string/PalindromicString.java">
