@@ -2,6 +2,7 @@ import algo.questions.backtrack.SubSetsProvider;
 import algo.questions.common.AddBinaryNumbers;
 import algo.questions.common.BinaryCountBits;
 import algo.questions.common.DivisionOfTwoNumbers;
+import algo.questions.common.FindSingleNumber;
 import algo.questions.list.AddTwoNumbers;
 import algo.utils.CollectionHelper;
 import questions.sort.ArrayMaxNumber;
@@ -22,11 +23,21 @@ public class Main {
         //addTwoNumbers();
         //twoNumbersDivision();
         //addTwoBinary();
-        binaryCountBits();
+        //binaryCountBits();
+        findSingleNumber();
+    }
+
+    private static void findSingleNumber() {
+        int[] twiceNumbers = new int[] {4,1,2,1,2};
+        int[] thriceNumbers = new int[] {3,6,3,1,6,8,3,1,6,1};
+        int resultInTwice = new FindSingleNumber().singleNumberInTwice(twiceNumbers);
+        int resultInThrice = new FindSingleNumber().singleNumberInThrice(thriceNumbers);
+        System.out.println("包含两个相同数的数组：" + resultInTwice);
+        System.out.println("包含三个相同数的数组：" + resultInThrice);
     }
 
     private static void binaryCountBits() {
-        int[] result = new BinaryCountBits().countBits(2);
+        int[] result = new BinaryCountBits().countBitsByBitOperation(2);
         System.out.println(CollectionHelper.arrayToList(result));
     }
 
